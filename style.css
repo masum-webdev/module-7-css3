@@ -1,0 +1,12 @@
+.box{
+  height: 100px;
+  width: 100px;
+}
+.outer{
+  background-color: red;
+}
+.inner{
+  background-color: blue;
+  transform:scale(.9) rotate(45deg) translate(50px) skew(15deg,15deg);
+  
+}
